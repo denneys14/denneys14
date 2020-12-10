@@ -7,7 +7,7 @@
 
 - 💬 Ask me about **anything!**
 
-- 📫 How to reach me **smtwd14@gmail.com**
+- 📫 Reach me at **smtwd14@gmail.com**
 
 - 📄 Know about my experiences [https://www.linkedin.com/in/sophia-mtw-denney-31a555144/](https://www.linkedin.com/in/sophia-mtw-denney-31a555144/)
 
