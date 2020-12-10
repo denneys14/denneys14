@@ -1,7 +1,7 @@
 <h1 align="center">what's up, it's Sophia</h1>
 <h3 align="center">A passionate frontend developer originally from Berlin</h3>
 
-- 🔭 I’m currently working on [Running Buddy](http://www.runningbuddy.run/)
+- 🏃‍♀️ I’m currently working on [Running Buddy](http://www.runningbuddy.run/)
 
 - 👩‍💻 All of my projects are available at [https://github.com/denneys14](https://github.com/denneys14)
 
