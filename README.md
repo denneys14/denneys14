@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [Running Buddy](http://www.runningbuddy.run/)
 
-- 🏻👩‍💻 All of my projects are available at [https://github.com/denneys14](https://github.com/denneys14)
+- 👩‍💻 All of my projects are available at [https://github.com/denneys14](https://github.com/denneys14)
 
 - 💬 Ask me about **anything!**
 
