@@ -1,4 +1,4 @@
-<h1 align="center">I despise sarcastic greetings👾</h1>
+<h1 align="center">It's Sophia – I despise sarcastic greetings👾</h1>
 <h3 align="center">A passionate frontend developer originally from Berlin</h3>
 
 - 🟩  I’m currently working on [Running Buddy](http://www.runningbuddy.run/)
