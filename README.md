@@ -1,5 +1,5 @@
 <h1 align="center">It's Sophia – I despise sarcastic greetings👾</h1>
-<h3 align="center">always seeking new opportunities and adrenalin</h3>
+<h3 align="center"> SEEKING OPPORTUNITIES AND ADRENALIN</h3>
 
 - 🟩    Currently working on [Running Buddy](http://www.runningbuddy.run/)
 
