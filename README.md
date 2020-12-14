@@ -1,7 +1,7 @@
 <h1 align="center">It's Sophia – I despise sarcastic greetings👾</h1>
-<h3 align="center">A passionate fullStack developer originally from Berlin</h3>
+<h3 align="center">always seeking new opportunities and adrenalin</h3>
 
-- 🟩    I’m currently working on [Running Buddy](http://www.runningbuddy.run/)
+- 🟩    Currently working on [Running Buddy](http://www.runningbuddy.run/)
 
 - 🔷    All of my projects are available at [https://github.com/denneys14](https://github.com/denneys14)
 
