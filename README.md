@@ -9,7 +9,7 @@
 
 - 🔹    Reach me at **smtwd14@gmail.com**
 
-- 🔹    Know about my experiences [https://www.linkedin.com/in/sophia-mtw-denney-31a555144/](https://www.linkedin.com/in/sophia-mtw-denney-31a555144/)
+- 🔹    Find out about my experiences [https://www.linkedin.com/in/sophia-mtw-denney-31a555144/](https://www.linkedin.com/in/sophia-mtw-denney-31a555144/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
