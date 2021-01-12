@@ -10,7 +10,7 @@
 
 - 🔹    Reach me at **smtwd14@gmail.com**
 
-<h3 align="left"> 🔹 Find out about my experiences and connect with me:</h3>
+<h3 align="left"> Find out about my experiences and connect with me:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/sophia-mtw-denney-31a555144/" target="blank"><img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original-wordmark.svg" alt="sophia denney" height="100" width="130" /></a>
 </p>
