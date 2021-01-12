@@ -16,13 +16,13 @@
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> <a 
-href="https://www.bootstrap.com/" target="_blank"> <img src="https://raw.githubusercontent.com/AliasIO/Wappalyzer/master/src/drivers/webextension/images/icons/Bootstrap.svg" alt="bootstrap" width="40" height="40"/> </a> <a 
-href="https://www.sass.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/sass-lang/sass-lang-icon.svg" alt="sass" width="40" height="40"/> </a> <a 
+href="https://getbootstrap.com/" target="_blank"> <img src="https://raw.githubusercontent.com/AliasIO/Wappalyzer/master/src/drivers/webextension/images/icons/Bootstrap.svg" alt="bootstrap" width="40" height="40"/> </a> <a 
+href="https://sass-lang.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/sass-lang/sass-lang-icon.svg" alt="sass" width="40" height="40"/> </a> <a 
 href="https://www.figma.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a 
-href="https://www.redis.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/redis/redis-icon.svg" alt="redis" width="40" height="40"/> </a> <a
-href="https://www.postgresql.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/postgresql/postgresql-icon.svg" alt="postgresql" width="40" height="40"/> </a> <a 
-href="https://www.rubyonrails.com/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Ruby_on_Rails_logo.svg" alt="rubyonrails" width="40" height="40"/> </a> <a
-href="https://www.html.com/" target="_blank"> <img src="https://raw.githubusercontent.com/abranhe/programming-languages-logos/master/src/html/html.svg" alt="html" width="40" height="40"/> </a> <a 
+href="https://redis.io/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/redis/redis-icon.svg" alt="redis" width="40" height="40"/> </a> <a
+href="https://www.postgresql.org/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/postgresql/postgresql-icon.svg" alt="postgresql" width="40" height="40"/> </a> <a 
+href="https://rubyonrails.org/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Ruby_on_Rails_logo.svg" alt="rubyonrails" width="40" height="40"/> </a> <a
+href="https://developer.mozilla.org/de/docs/Web/HTML" target="_blank"> <img src="https://raw.githubusercontent.com/abranhe/programming-languages-logos/master/src/html/html.svg" alt="html" width="40" height="40"/> </a> <a 
 href="https://www.js.com/" target="_blank"> <img src="https://gitlab.svg.zone/omniait/developer-logos/raw/master/logos/front-end-web/javascript.svg" alt="javascript" width="40" height="40"/> </a> <a 
 href="https://www.css3.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a 
 href="https://www.ruby.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/ruby-lang/ruby-lang-icon.svg" alt="ruby" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://heroku.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40"/> </a> <a
