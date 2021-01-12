@@ -16,7 +16,7 @@
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> <a 
-href="https://www.bootstrap.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/getbootstrap/getbootstrap-icon.svg" alt="bootstrap" width="40" height="40"/> </a> <a 
+href="https://www.bootstrap.com/" target="_blank"> <img src="https://raw.githubusercontent.com/AliasIO/Wappalyzer/master/src/drivers/webextension/images/icons/Bootstrap.svg" alt="bootstrap" width="40" height="40"/> </a> <a 
 href="https://www.sass.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/sass-lang/sass-lang-icon.svg" alt="sass" width="40" height="40"/> </a> <a 
 href="https://www.figma.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a 
 href="https://www.redis.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/redis/redis-icon.svg" alt="redis" width="40" height="40"/> </a> <a
