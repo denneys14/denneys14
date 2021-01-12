@@ -24,7 +24,7 @@ href="https://www.sass.com/" target="_blank"> <img src="https://www.vectorlogo.z
 href="https://www.figma.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a 
 href="https://www.redis.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/redis/redis-icon.svg" alt="redis" width="40" height="40"/> </a> <a
 href="https://www.postgresql.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/postgresql/postgresql-icon.svg" alt="postgresql" width="40" height="40"/> </a> <a
-href="https://www.html.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-icon.svg" alt="html" width="40" height="40"/> </a> <a 
+href="https://www.html.com/" target="_blank"> <img src="https://raw.githubusercontent.com/abranhe/programming-languages-logos/master/src/html/html.svg" alt="html" width="40" height="40"/> </a> <a 
 href="https://www.rubyonrails.com/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Ruby_on_Rails_logo.svg" alt="rubyonrails" width="40" height="40"/> </a> <a 
 href="https://www.js.com/" target="_blank"> <img src="https://gitlab.svg.zone/omniait/developer-logos/raw/master/logos/front-end-web/javascript.svg" alt="javascript" width="40" height="40"/> </a> <a 
 href="https://www.css3.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a 
