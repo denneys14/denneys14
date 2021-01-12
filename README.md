@@ -14,7 +14,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/sophia denney" target="blank"><img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original-wordmark.svg" alt="sophia denney" height="100" width="130" /></a>
+<a href="https://www.linkedin.com/in/sophia-mtw-denney-31a555144/" target="blank"><img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original-wordmark.svg" alt="sophia denney" height="100" width="130" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
