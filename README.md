@@ -4,7 +4,7 @@
 - 🟩    Currently working on [Running Buddy](http://www.runningbuddy.run/)
 - 🟪    Currently working on Datash
 
-- 🔷    All of my projects are available at [https://github.com/denneys14](https://github.com/denneys14)
+- 🔷    My projects are available at [https://github.com/denneys14](https://github.com/denneys14)
 
 - 🔹    Ask me about **anything!**
 
