@@ -1,4 +1,4 @@
-<h1 align="center">It's Sophia – I despise sarcastic greetings👾</h1>
+<h1 align="center">It's Sophia 👾</h1>
 <h3 align="center"> SEEKING EXCITING PROJECTS in the sport and health sector </h3>
 
 - 🟩    Currently working on [Running Buddy](http://www.runningbuddy.run/)
